@@ -1,5 +1,5 @@
 # Видео-игры
-EFT:Escape from tarkov
+EFT:Escape from tarkov [Оффициальный сайт](https://www.escapefromtarkov.com/)
 
 ## Установка
 
