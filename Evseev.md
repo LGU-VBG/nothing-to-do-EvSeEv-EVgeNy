@@ -1,5 +1,6 @@
 # Видео-игры
 EFT:Escape from tarkov [Оффициальный сайт](https://www.escapefromtarkov.com/)
+![image](https://github.com/user-attachments/assets/c2312ea5-7efe-457d-a394-441825277234)
 
 ## Установка
 
